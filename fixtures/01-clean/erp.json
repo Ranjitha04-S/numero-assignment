@@ -1,0 +1,44 @@
+{
+  "entity": {
+    "companyName": "Acme Corporation"
+  },
+  "total": "80,000.00",
+  "currency": {
+    "symbol": "USD"
+  },
+  "terms": {
+    "name": "30 days from invoice date"
+  },
+  "startDate": "06/05/2025",
+  "endDate": "06/04/2026",
+  "quoteId": "Q-00039",
+  "billingAddress": "123 Business Plaza Drive, Anytown, ST 12345, United States",
+  "shippingAddress": "123 Business Plaza Drive, Anytown, ST 12345, United States",
+  "signatureDate": "2025-06-06",
+  "items": [
+    {
+      "itemCode": "Cyber Insurance",
+      "qty": "1",
+      "rate": "10000.00",
+      "discountPct": "0%"
+    },
+    {
+      "itemCode": "End Point Security",
+      "qty": "1",
+      "rate": "25000.00",
+      "discountPct": "0%"
+    },
+    {
+      "itemCode": "Incident360",
+      "qty": "1",
+      "rate": "20000.00",
+      "discountPct": "0%"
+    },
+    {
+      "itemCode": "Incident Response",
+      "qty": "1",
+      "rate": "25000.00",
+      "discountPct": "0%"
+    }
+  ]
+}

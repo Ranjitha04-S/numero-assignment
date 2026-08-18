@@ -1,0 +1,38 @@
+{
+  "Account_Name__c": "Acme Corporation",
+  "Amount": 80000,
+  "CurrencyIsoCode": "USD",
+  "Payment_Terms__c": "Net 30",
+  "Subscription_Start__c": "2025-06-05",
+  "Subscription_End__c": "2026-06-04",
+  "Quote_Number__c": "Q-00039",
+  "Billing_Address__c": "123 Business Plaza Drive, Anytown, ST 12345, United States",
+  "Shipping_Address__c": "123 Business Plaza Drive, Anytown, ST 12345, United States",
+  "Signature_Date__c": "2025-06-06",
+  "LineItems": [
+    {
+      "Product2.Name": "Cyber Insurance",
+      "Quantity": 1,
+      "UnitPrice": 10000,
+      "Discount": 0
+    },
+    {
+      "Product2.Name": "End Point Security",
+      "Quantity": 1,
+      "UnitPrice": 25000,
+      "Discount": 0
+    },
+    {
+      "Product2.Name": "Incident360",
+      "Quantity": 1,
+      "UnitPrice": 20000,
+      "Discount": 0
+    },
+    {
+      "Product2.Name": "Incident Response",
+      "Quantity": 1,
+      "UnitPrice": 25000,
+      "Discount": 0
+    }
+  ]
+}
